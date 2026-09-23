@@ -5,8 +5,13 @@
  managing Microsoft Entra ID Users in the portal. I was given a scenario where I have setup Entra ID 
  </p>
 
+<br>
+<hr>
+
  <img width="1584" height="853" alt="image" src="https://github.com/user-attachments/assets/679c5ef1-fad8-4621-8700-997c7c60e35f" />
 
+<hr>
+<br>
 <ul>
   <li>1) Create Entra ID Users</li>
   <li>2) Modify Entra ID Users</li>
